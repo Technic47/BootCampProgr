@@ -1,0 +1,15 @@
+C:\Users\Павел\Documents\GeekBrain\BootComp Progr\QuickSort\bin\Debug\net6.0\QuickSort.exe
+C:\Users\Павел\Documents\GeekBrain\BootComp Progr\QuickSort\bin\Debug\net6.0\QuickSort.deps.json
+C:\Users\Павел\Documents\GeekBrain\BootComp Progr\QuickSort\bin\Debug\net6.0\QuickSort.runtimeconfig.json
+C:\Users\Павел\Documents\GeekBrain\BootComp Progr\QuickSort\bin\Debug\net6.0\QuickSort.dll
+C:\Users\Павел\Documents\GeekBrain\BootComp Progr\QuickSort\bin\Debug\net6.0\QuickSort.pdb
+C:\Users\Павел\Documents\GeekBrain\BootComp Progr\QuickSort\obj\Debug\net6.0\QuickSort.csproj.AssemblyReference.cache
+C:\Users\Павел\Documents\GeekBrain\BootComp Progr\QuickSort\obj\Debug\net6.0\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Documents\GeekBrain\BootComp Progr\QuickSort\obj\Debug\net6.0\QuickSort.AssemblyInfoInputs.cache
+C:\Users\Павел\Documents\GeekBrain\BootComp Progr\QuickSort\obj\Debug\net6.0\QuickSort.AssemblyInfo.cs
+C:\Users\Павел\Documents\GeekBrain\BootComp Progr\QuickSort\obj\Debug\net6.0\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Documents\GeekBrain\BootComp Progr\QuickSort\obj\Debug\net6.0\QuickSort.dll
+C:\Users\Павел\Documents\GeekBrain\BootComp Progr\QuickSort\obj\Debug\net6.0\refint\QuickSort.dll
+C:\Users\Павел\Documents\GeekBrain\BootComp Progr\QuickSort\obj\Debug\net6.0\QuickSort.pdb
+C:\Users\Павел\Documents\GeekBrain\BootComp Progr\QuickSort\obj\Debug\net6.0\QuickSort.genruntimeconfig.cache
+C:\Users\Павел\Documents\GeekBrain\BootComp Progr\QuickSort\obj\Debug\net6.0\ref\QuickSort.dll
